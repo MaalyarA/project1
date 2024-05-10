@@ -1,10 +1,5 @@
 #lab 9 revamp
-
-#You will need to change things in this logic module by importing from the gui module (project1-gui)
-
-#Things to change? All methods must be changed to alter things that are shown on the actual GUI
 #Logic File
-
 class Account:
     def __init__(self, name: str, balance: int=0) -> None:
         '''
